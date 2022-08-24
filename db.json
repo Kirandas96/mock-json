@@ -1,7 +1,7 @@
 {
     "users":[],
     "posts":[],
-    "movies": [
+    "movie": [
     {
       "id": 1,
       "title": "Doctor Strange in the Multiverse of Madness",
