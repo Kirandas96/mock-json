@@ -1,6 +1,7 @@
 {
     "users":[],
     "posts":[],
+    "patients":[],
     "movie": [
     {
       "id": 1,
