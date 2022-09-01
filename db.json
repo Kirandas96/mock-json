@@ -2,6 +2,7 @@
     "users":[],
     "posts":[],
     "patients":[],
+    "notes":[],
     "movie": [
     {
       "id": 1,
