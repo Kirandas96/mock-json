@@ -1,9 +1,43 @@
 {
-    "users":[],
-    "posts":[],
-    "patients":[],
-    "notes":[],
-    "movie": [
+  "levelData": [
+    { "level1": [{ "value": "data1" }] },
+    { "level2": [{ "value": "data1" }, { "value": "data2" }] },
+    {
+      "level3": [
+        { "value": "data1" },
+        { "value": "data2" },
+        { "value": "data3" },
+        { "value": "data4" }
+      ]
+    },
+    {
+      "level3": [
+        { "value": "data1" },
+        { "value": "data2" },
+        { "value": "data3" },
+        { "value": "data4" },
+        { "value": "data5" },
+        { "value": "data6" }
+      ]
+    },
+    {
+      "level3": [
+        { "value": "data1" },
+        { "value": "data2" },
+        { "value": "data3" },
+        { "value": "data4" },
+        { "value": "data5" },
+        { "value": "data6" },
+        { "value": "data7" },
+        { "value": "data8" }
+      ]
+    }
+  ],
+  "users": [],
+  "posts": [],
+  "patients": [],
+  "notes": [],
+  "movie": [
     {
       "id": 1,
       "title": "Doctor Strange in the Multiverse of Madness",
@@ -129,9 +163,8 @@
     {
       "id": 1,
       "movie_id": 2,
-      "name": "Sam", 
+      "name": "Sam",
       "seat": "A2"
     }
-]
-
+  ]
 }
