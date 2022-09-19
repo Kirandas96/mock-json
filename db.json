@@ -1,37 +1,31 @@
 {
   "levelData": [
-    { "level1": [{ "value": "data1" }] },
-    { "level2": [{ "value": "data1" }, { "value": "data2" }] },
-    {
-      "level3": [
-        { "value": "data1" },
-        { "value": "data2" },
-        { "value": "data3" },
-        { "value": "data4" }
-      ]
-    },
-    {
-      "level4": [
-        { "value": "data1" },
-        { "value": "data2" },
-        { "value": "data3" },
-        { "value": "data4" },
-        { "value": "data5" },
-        { "value": "data6" }
-      ]
-    },
-    {
-      "level5": [
-        { "value": "data1" },
-        { "value": "data2" },
-        { "value": "data3" },
-        { "value": "data4" },
-        { "value": "data5" },
-        { "value": "data6" },
-        { "value": "data7" },
-        { "value": "data8" }
-      ]
-    }
+    [{ "value": "data1" }],
+    [{ "value": "data1" }, { "value": "data2" }],
+    [
+      { "value": "data1" },
+      { "value": "data2" },
+      { "value": "data3" },
+      { "value": "data4" }
+    ],
+    [
+      { "value": "data1" },
+      { "value": "data2" },
+      { "value": "data3" },
+      { "value": "data4" },
+      { "value": "data5" },
+      { "value": "data6" }
+    ],
+    [
+      { "value": "data1" },
+      { "value": "data2" },
+      { "value": "data3" },
+      { "value": "data4" },
+      { "value": "data5" },
+      { "value": "data6" },
+      { "value": "data7" },
+      { "value": "data8" }
+    ]
   ],
   "users": [],
   "posts": [],
