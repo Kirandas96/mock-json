@@ -27,7 +27,7 @@
       { "value": "data8" }
     ]
   ],
-  "users": [],
+  "users": [{"id":1,"username":"far","email":"far@gmail.com","password":"boo"}],
   "posts": [],
   "patients": [],
   "notes": [],
